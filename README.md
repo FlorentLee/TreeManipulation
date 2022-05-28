@@ -1,7 +1,3 @@
 # MCC Tree Converter
-You can use this tool to convert your MCC tree to a CSV file and then upload it to the Kepler.gl Visualization App.\
-Here are some changes you should make to incorporate your own tree file.
-
-1.
-
-2.
+You can use this tool to convert your MCC tree to a CSV file and then apply it to the Kepler.gl Visualization App.\
+Plase follow the instructions in the comments of main.py to incorporate your own dataset correctly.
